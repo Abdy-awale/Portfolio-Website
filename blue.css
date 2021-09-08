@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&family=Russo+One&display=swap');
+
+:root{
+  --mainColor: #15202b;
+  --secColor: #192734;
+  --borderColor: #164d56;
+  --mainText: #fff;
+  --secText: #eeeeee;
+  --theme-border: #fff;
+  --r-column-bgc: rgb(25, 39, 52, 0.8);
+  --rc-box-shadow: #111921;
+  --btnColor: #17a2b8;
+}
